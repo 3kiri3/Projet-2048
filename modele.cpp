@@ -500,7 +500,7 @@ void jeu()
 		jeu();
 	}
 }
-int main()
+/**int main()
 {
 	system("color 0D"); // couleur du fond et du tableau
 	system("cls");		// refresh à chaque fois la console.
